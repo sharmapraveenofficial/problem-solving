@@ -1,3 +1,6 @@
-1 2 3 4 5 6 7 8 9 10 
-1 2 3 4 5 6 7 
-1 2 3 4 5 6 7 8 
+Stack Before Reverse : 1 2 3 4 5 6 7 8 9 10 
+Stack After Reverse : 10 9 8 7 6 5 4 3 2 1 
+Stack Before Reverse : 1 2 3 4 5 6 7 
+Stack After Reverse : 7 6 5 4 3 2 1 
+Stack Before Reverse : 5 4 3 2 1 6 7 1 
+Stack After Reverse : 1 7 6 1 2 3 4 5 
