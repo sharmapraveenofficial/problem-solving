@@ -30,9 +30,7 @@ int anagram_substring(string s){
     }
 
      for(auto a:m){
-
         int freq=a.second;
-
         if(freq>=2){
             ans+= (freq)*(freq-1)/2;
         }
